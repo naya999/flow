@@ -1,0 +1,90 @@
+<mxfile userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="14.9.7" editor="www.draw.io">
+	<diagram name="要件定義フローチャート" id="A77yXJpA38dDTmXLrIly">
+		<mxGraphModel dx="1228" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+			<root>
+				<mxCell id="0"/>
+				<mxCell id="1" parent="0"/>
+				<mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+					<mxGeometry x="640" y="70" width="80" height="80" as="geometry"/>
+				</mxCell>
+				<mxCell id="5" value="プロジェクト背景" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="400" y="10" width="160" height="50" as="geometry"/>
+				</mxCell>
+				<mxCell id="6" value="フローチャート開始" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCCC;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="515" y="70" width="80" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="7" value="要件定義" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="520" y="150" width="70" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="8" value="フローチャート終了" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCCC;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="515" y="490" width="80" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="9" value="スコープおよび要件" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="490" y="230" width="130" height="40" as="geometry"/>
+				</mxCell>
+                <mxCell id="10" value="機能要件" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="260" y="330" width="70" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="11" value="技術要件" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="410" y="330" width="70" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="12" value="品質要件" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="560" y="330" width="70" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="13" value="セキュリティ要件" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#CCCCFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="710" y="330" width="90" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="14" value="請求書の作成・送付" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="80" y="400" width="120" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="15" value="入金管理" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="250" y="400" width="80" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="16" value="経費精算" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="380" y="400" width="80" height="40" as="geometry"/>
+				</mxCell>
+				<mxCell id="17" value="財務報告" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+					<mxGeometry x="510" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="予算管理" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="640" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="クラウドベースのシステム" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="200" y="480" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Webブラウザからアクセス可能" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="380" y="480" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="モバイル対応" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="560" y="480" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="複数ユーザーのアクセス管理" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="680" y="480" width="140" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="レスポンシブデザイン" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="130" y="570" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="高速なデータ処理" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="320" y="570" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="直感的なユーザーインターフェイス" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="130" y="570" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="データ暗号化" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="260" y="660" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="ログイン認証" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="440" y="660" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="バックアップと復元機能" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+                <mxGeometry x="620" y="660" width="140" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
+
+
+
+
+
